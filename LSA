@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Lietuvos suzuki asociacija.lt</title>
+</head>
+<header>
+    <strong>Lietuvos suzuki asociacija
+    </strong>
+    <p>
+        
+    </p>
+    <form>
+      <input type="button" onclick="window.location.href='https://suzukiasociacija.lt/';" value="Asociacija"/>
+      <p>
+          
+      </p>
+    </form>
+    <form>
+        <input type="button" onclick="window.location.href='https://suzukiasociacija.lt/filosofija';" value="Filosofija"/>
+        <p>
+        </p>
+    </form>
+    <form>
+        <input type="button" onclick="window.location.href='https://suzukiasociacija.lt/kontaktai/';" value="Kontaktai"/>
+    </form>
+    <p>
+        
+    </p>
+    <div class="topnav">
+        <input type="text" placeholder="Paieška..">
+    </div>
+    <p>
+        
+    </p>
+    <h><a href="https://suzukiasociacija.lt//">Naujienos</a></p>
+        <h><a href="https://suzukiasociacija.lt/lsa//">Veikla</a></p>
+            <h><a href="https://suzukiasociacija.lt/stovyklos//">Stovyklos</a></p>
+                <h><a href="https://suzukiasociacija.lt/mokytojai//">Mokytojai</a></p>
+                    <h><a href="https://suzukiasociacija.lt/filosofija//">Filosofija</a></p>
+                    </header>
+                    <body>
+                        <h1>
+                            <p>
+                                
+                            </p>
+                            <div class="container">
+                                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                                <div class="caption-container">
+                                    <p id="caption"></p>
+                                </div>
+                                <div class="row">
+                                    <div class="column">
+                                        <img class="demo cursor" src="Festivalis.jpg" style="width:30%" onclick="CurrentSlide(1)" alt="1 nuotrauka">
+                                    </div>
+                                    <div class="column">
+                                        <img class="demo cursor" src="gitara.jpg" style="width:30%" onclick="CurrentSlide(2)" alt="2 nuotrauka">
+                                    </div>
+                                    <div class="column">
+                                        <img class="demo cursor" src="plakatas.jpg" style="width:30%" onclick="CurrentSlide(3)" alt="3 nuotrauka">
+                                    </div>
+                                    <div class="column">
+                                        <img class="demo cursor" src="th.jpg" style="width:30%" onclick="CurrentSlide(4)" alt="4 nuotrauka">
+                                    </div>
+                                </div>
+                            </div>
+                            <h1>Artimiausi Renginiai:</h1>
+                            <ul>
+                                <li>Pirmas Renginys</li>
+                                <li>Antras Renginys</li>
+                                <li>Trečias Renginys</li>
+                                <li>Ketvirtas Renginys</li>
+                                <p>
+                                    
+                                </p>
+                                <form>
+                                    <strong><input type="button" value="Registruotis į renginį"/></strong>
+                                </form>
+                                <p>
+                                    
+                                </p>
+                            </h1>
+                            <body>
+                                
+                            </body>
+                            <p>
+                                
+                            </p>
+                            <div>
+                            <h2><b>Naujienos</b></h2>
+                        </div>
+
+                            <title>Calendar</title>
+                            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
+                            <body>
+                                <div class="container">
+                                    <div class="calendar">
+                                        <h2>Sausis</h2>
+                                        <a class="btn-prev fontawesome-angle-left" href="#"></a>
+                                        <a class="btn-next fontawesome-angle-right" href="#"></a>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <td>Pi</td>
+                                                    <td>An</td>
+                                                    <td>Tr</td>
+                                                    <td>Ke</td>
+                                                    <td>Pe</td>
+                                                    <td>Še</td>
+                                                    <td>Se</td>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="prev-month">27</td>
+                                                    <td class="prev-month">28</td>
+                                                    <td class="prev-month">29</td>
+                                                    <td class="prev-month">30</td>
+                                                    <td class="prev-month">31</td>
+                                                    <td class="event">1</td>
+                                                    <td>2</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </body>
+                            <p>
+                            </p>
+                                <img src="Festivalis.jpg" width= "30%"
+                                <p>Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis</p>
+
+                                <title>Calendar</title>
+                            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
+                            <body>
+                                <div class="container">
+                                    <div class="calendar">
+                                        <h2>Vasaris</h2>
+                                        <a class="btn-prev fontawesome-angle-left" href="#"></a>
+                                        <a class="btn-next fontawesome-angle-right" href="#"></a>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <td>Pi</td>
+                                                    <td>An</td>
+                                                    <td>Tr</td>
+                                                    <td>Ke</td>
+                                                    <td>Pe</td>
+                                                    <td>Še</td>
+                                                    <td>Se</td>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="prev-month">31</td>
+                                                    <td>1</td>
+                                                    <td>2</td>
+                                                    <td>3</td>
+                                                    <td>4</td>
+                                                    <td class="event">5</td>
+                                                    <td>6</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </body>
+                                <p>
+                                    
+                                </p>
+                                <img src="gitara.jpg" width= "30%"
+                                <p>
+                                Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis Festivalis
+                                </p>
+
+                                <title>Calendar</title>
+                            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
+                            <body>
+                                <div class="container">
+                                    <div class="calendar">
+                                        <h2>Kovas</h2>
+                                        <a class="btn-prev fontawesome-angle-left" href="#"></a>
+                                        <a class="btn-next fontawesome-angle-right" href="#"></a>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <td>Pi</td>
+                                                    <td>An</td>
+                                                    <td>Tr</td>
+                                                    <td>Ke</td>
+                                                    <td>Pe</td>
+                                                    <td>Še</td>
+                                                    <td>Se</td>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="prev-month">28</td>
+                                                    <td>1</td>
+                                                    <td>2</td>
+                                                    <td>3</td>
+                                                    <td>4</td>
+                                                    <td class="event">5</td>
+                                                    <td>6</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </body>
+                                <p> Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas Tekstas
+                                </p>
+                                <title>Calendar</title>
+                            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
+                            <body>
+                                <div class="container">
+                                    <div class="calendar">
+                                        <h2>Balandis</h2>
+                                        <a class="btn-prev fontawesome-angle-left" href="#"></a>
+                                        <a class="btn-next fontawesome-angle-right" href="#"></a>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <td>Pi</td>
+                                                    <td>An</td>
+                                                    <td>Tr</td>
+                                                    <td>Ke</td>
+                                                    <td>Pe</td>
+                                                    <td>Še</td>
+                                                    <td>Se</td>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="prev-month">28</td>
+                                                    <td class="prev-month">29</td>
+                                                    <td class="prev-month">30</td>
+                                                    <td class="prev-month">31</td>
+                                                    <td>1</td>
+                                                    <td class="event">2</td>
+                                                    <td>3</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </body>
+                            <body>
+                                <video width="320" height="240" controls>
+                                    <source src="movie.mp4" type="video/mp4">
+                                        <source src="movie.ogg" type="video/ogg">
+                                        </video>
+                                        <p>
+                                            Kauno Suzuki progimnazijoje atliekama:
+                                            <a href="https://www.youtube.com/watch?v=7Z6JaIXGBsg/"target="_blank">Netvarkos daina</a>
+                                        </p>
+                                    </body>
+                                </ul>
+                            </h1>
+                        </body>
+                    </h>
+                </h>
+            </body>
+            </html>
